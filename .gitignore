@@ -1,0 +1,36 @@
+# Built application files
+*.apk
+*.ap_
+
+# Compiled JNI libraries
+*.so
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+.idea/
+captures/
+
+# Local configuration file (e.g., secure properties file)
+local.properties
+
+# Android Studio configuration files
+*.iml
+.gradle/
+.idea/
+.build/
+
+# External native build folder (ndk-build)
+build/
+
+# Android Studio navigation files
+.navigation/
+
+# Keystore files
+*.jks
+
